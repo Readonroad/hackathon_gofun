@@ -1,2 +1,2 @@
 # hackathon_gofun
-face recognition
+face recognition demp
